@@ -24,6 +24,7 @@ public class Main {
         sc.nextLine();
         while (sc.hasNextLine()) {  
             UniData u = new UniData(sc.next(), sc.next(), sc.next(), sc.next(), sc.next(), sc.next(), sc.next(), sc.next());
+            myUni.add(u);
             System.out.println(u);
             sc.nextLine();
         }  // end while loop
