@@ -1,1 +1,2 @@
-# 953212_66
+# 953212
+# Resources for Lab2: Data Manipulation with JAVA
